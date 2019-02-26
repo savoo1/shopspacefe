@@ -1,0 +1,202 @@
+@media (min-width: 994px) {
+  .sssss {
+    top: 140px; } }
+@media (max-width: 1200px) {
+  .herofluid .form .row button {
+    font-size: 11px; }
+
+  .slidefluid .carousel {
+    padding-left: 0;
+    padding-right: 0; }
+
+  .slidefluid .carousel p {
+    text-align: center; }
+
+  .navbar-default .navbar-default .navbar-nav > .active > a p, .navbar-default .navbar-default .navbar-nav > .active > a:hover p, .navbar-default .navbar-default .navbar-nav > .active > a:focus p {
+    border: none; }
+
+  .navbar-default .navbar-nav > li > .signin {
+    border: none;
+    padding: 0;
+    margin: 0;
+    padding: 10px;
+    padding-left: 20px; }
+
+  .navbar-default .navbar-nav > li > a {
+    margin: 0; }
+
+  .select input {
+    width: 130px; } }
+@media (max-width: 992px) {
+  .addnewcatalogue {
+    padding-top: 100px; }
+
+  .addnewcatalogue .catalogue h1 {
+    font-size: 25px; }
+
+  .addnewcatalogue .catalogue .crtica {
+    margin-bottom: 30px;
+    margin-top: 20px; }
+
+  .addnewproductcontent .row .col-md-2 {
+    padding-left: 15px; }
+
+  .addnewproductcontent {
+    padding-top: 100px; }
+
+  .brands .col-md-4 {
+    padding-left: 60px;
+    padding-right: 60px; }
+
+  .strelice {
+    display: none !important; }
+
+  .selectedbrands .cont .slika img, .brands .slider .divimg img {
+    width: auto; }
+
+  .selectedbrands {
+    padding-top: 120px; }
+
+  .selectedbrands h1 {
+    text-align: center; }
+
+  .selectedbrands .crtica {
+    margin-left: auto;
+    margin-right: auto; }
+
+  .slider {
+    margin-top: 60px; }
+
+  .herofluid .form .row button {
+    margin-top: 20px; }
+
+  .herofluid .herocontent .col-md-4 {
+    display: block;
+    position: relative; }
+
+  .herofluid .herocontent .col-md-4 {
+    padding: 0;
+    max-width: 33.33%; }
+  .herofluid .herocontent p {
+    max-width: 221px;
+    background: rgba(255, 255, 255, 0.9);
+    text-align: center;
+    height: 70px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px; }
+  .herofluid .herocontent .col-md-4:nth-child(2) {
+    position: relative;
+    margin: auto; }
+  .herofluid .herocontent .col-md-4:nth-child(3) {
+    float: left; }
+  .herofluid .herocontent .col-md-4 {
+    float: left;
+    width: 33.33%; }
+
+  .herofluid .herocontent p {
+    margin: auto;
+    margin-bottom: 50px;
+    min-height: 90px; }
+
+  .trfluid .content h2, .trfluid .content p {
+    text-align: center; }
+
+  .slidefluid .col-md-1 {
+    display: none; }
+
+  .slidefluid .carousel p {
+    margin: auto;
+    margin-bottom: 25px; }
+
+  .slidefluid .carousel {
+    padding-top: 15px;
+    padding-bottom: 15px; }
+
+  .trfluid .content {
+    margin-top: 50px; }
+
+  .slidefluid {
+    padding-bottom: 60px; }
+
+  .topmenu {
+    display: none; }
+
+  .navbar-default {
+    margin-top: 0 !important; }
+
+  .herocomm {
+    min-height: 350px; }
+
+  .herocomm h1 {
+    margin-top: 150px;
+    font-size: 25px; }
+
+  .select .styled-select {
+    margin: auto;
+    margin-bottom: 25px; }
+
+  .select {
+    padding-top: 40px;
+    padding-bottom: 40px; }
+
+  .filterclass {
+    margin: auto;
+    display: block;
+    width: 225px; }
+
+  .commcont {
+    padding-top: 40px; }
+
+  .commcont .crtica {
+    margin-bottom: 40px; }
+
+  .commcont .content .cont {
+    margin-bottom: 25px; }
+    .commcont .content .cont h3, .commcont .content .cont h2, .commcont .content .cont p {
+      text-align: center; }
+    .commcont .content .cont img {
+      margin: auto; }
+
+  .commcont .content .cont .btnss {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 0; }
+
+  .commcont .content .cont .btnss a {
+    margin: auto; } }
+@media (max-width: 768px) {
+  .slider .content {
+    min-height: 400px; }
+
+  .slider .content h2 {
+    padding-top: 100px; }
+
+  .slider .content h1 {
+    font-size: 50px; }
+
+  .drop .dropdiv h1 {
+    font-size: 30px;
+    padding-top: 100px;
+    padding-bottom: 100px; }
+
+  .herofluid .herocontent .col-md-4 {
+    max-width: 100%;
+    width: 100%; }
+
+  .herocomm h1 {
+    margin-top: 100px; }
+
+  .drop {
+    padding-bottom: 100px; }
+
+  .brands {
+    padding-bottom: 130px; } }
+@media (max-width: 767px) {
+  .addnewcatalogue .categories ul li .options {
+    display: none; } }
+
+/*# sourceMappingURL=responsive.css.map */
